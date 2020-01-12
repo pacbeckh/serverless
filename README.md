@@ -9,7 +9,7 @@ Firebase client setup:
 https://firebase.google.com/docs/admin/setup
 
 #### Google actions / Dialogflow
-Example of google action with fulfillment: https://github.com/dialogflow/dialogflow-fulfillment-nodejs/tree/master/samples/actions-on-google
+Example of google action with fulfillment: https://github.com/dialogflow/fulfillment-actions-library-nodejs
 
 Most simple dialogflow project: https://github.com/actions-on-google/dialogflow-silly-name-maker
 
